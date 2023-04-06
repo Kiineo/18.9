@@ -185,7 +185,7 @@ body {
     #about p{
       display: flex;
       flex-direction: center;
-      margin-top: 40px;
+      margin-top: 30px;
 
     }
   
@@ -194,7 +194,7 @@ body {
     }
 
     #menu li{
-        flex:
+        flex:1
     }
   
     .row{
@@ -210,8 +210,6 @@ body {
       height: 400px;
     }
 
-
-  
     #host{
       display: flex;
       gap: 10px;
