@@ -181,12 +181,11 @@ body {
       flex-direction: row;
       gap: 10px;
     }
-
+      
     #about p{
       display: flex;
       flex-direction: center;
-      margin-top: 30px;
-
+      margin: 30px;
     }
   
     #about img{
