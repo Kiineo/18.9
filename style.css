@@ -182,11 +182,13 @@ body {
       gap: 10px;
     }
       
-    #about p{
-      display: flex;
-      flex-direction: center;
-      margin: 30px;
-    }
+
+#about p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
   
     #about img{
       width: 20%;
